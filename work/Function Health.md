@@ -22,7 +22,7 @@ Source: [TIME100 Most Influential Companies 2025][TIME100 Most Influential Compa
 [TIME100 Most Influential Companies 2025]: https://time.com/collections/time100-companies-2025/7289585/function-health/
 
 # Articles
-* [Equinox Partners with Function Health to Bring Comprehensive Lab Testing to the Forefront of High-Performance Living](https://www.prnewswire.com/news-releases/equinox-partners-with-function-health-to-bring-comprehensive-lab-testing-to-the-forefront-of-high-performance-living-302113761.html)
-* [Thrive Global and Function Join Forces to Launch the First Personalized and Proactive Health Testing Benefit for Employees](https://www.prnewswire.com/news-releases/thrive-global-and-function-join-forces-to-launch-the-first-personalized-and-proactive-health-testing-benefit-for-employees-302291531.html)
-* [Function Health Collaborates With GRAIL to Offer Multi-Cancer Early Detection Test Nationwide](https://www.prnewswire.com/news-releases/function-health-collaborates-with-grail-to-offer-multi-cancer-early-detection-test-nationwide-302321488.html)
-* [Function Health Acquires Ezra, Introduces $499 Full-Body MRI Scan](https://www.prnewswire.com/news-releases/function-health-acquires-ezra-introduces-499-full-body-mri-scan-302446016.html)
+- [Equinox Partners with Function Health to Bring Comprehensive Lab Testing to the Forefront of High-Performance Living](https://www.prnewswire.com/news-releases/equinox-partners-with-function-health-to-bring-comprehensive-lab-testing-to-the-forefront-of-high-performance-living-302113761.html)
+- [Thrive Global and Function Join Forces to Launch the First Personalized and Proactive Health Testing Benefit for Employees](https://www.prnewswire.com/news-releases/thrive-global-and-function-join-forces-to-launch-the-first-personalized-and-proactive-health-testing-benefit-for-employees-302291531.html)
+- [Function Health Collaborates With GRAIL to Offer Multi-Cancer Early Detection Test Nationwide](https://www.prnewswire.com/news-releases/function-health-collaborates-with-grail-to-offer-multi-cancer-early-detection-test-nationwide-302321488.html)
+- [Function Health Acquires Ezra, Introduces \$499 Full-Body MRI Scan](https://www.prnewswire.com/news-releases/function-health-acquires-ezra-introduces-499-full-body-mri-scan-302446016.html)
